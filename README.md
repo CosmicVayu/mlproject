@@ -72,7 +72,12 @@ pip install -r requirements.txt
 ---
 
 ## 📊 Project Snapshots
-📌 *(Add your project images/screenshots here.)*
+=======
+📌 <img width="1265" alt="Screenshot 2025-03-15 at 8 06 53 PM" src="https://github.com/user-attachments/assets/f8a8e258-dbff-486c-9c2e-db2b9cc42cae" />
+<img width="1265" alt="Screenshot 2025-03-15 at 8 07 16 PM" src="https://github.com/user-attachments/assets/46e083d6-e99d-43e2-89f6-fbd68f905da6" />
+<img width="789" alt="Screenshot 2025-03-15 at 8 07 47 PM" src="https://github.com/user-attachments/assets/6acc2b76-ab9c-43e8-9017-b0b47a66e2ce" />
+<img width="385" alt="Screenshot 2025-03-15 at 8 09 04 PM" src="https://github.com/user-attachments/assets/11d28c68-f560-41e1-8d2a-2186727bab30" />
+<img width="322" alt="Screenshot 2025-03-15 at 8 09 13 PM" src="https://github.com/user-attachments/assets/d2181f33-0bfc-454b-9577-50e8386b8e42" />
 
 ---
 
@@ -97,4 +102,3 @@ Want to contribute? Follow these steps:
 
 ---
 
-🚀 **Happy Coding!** 🎯
